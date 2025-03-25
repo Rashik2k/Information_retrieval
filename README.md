@@ -18,7 +18,7 @@ This task involves creating a document classification system that can categorize
 #### **How to Run**
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Rashik2k/Search_Engine-and-Subject_Classification.git
+   https://github.com/Rashik2k/Information_retrieval.git
    ```
 2. **Install libraries from requirements.txt**:
    ```bash
